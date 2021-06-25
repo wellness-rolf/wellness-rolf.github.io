@@ -1,24 +1,24 @@
-HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Jun 2021 18:01:55 at https://wellness-massagen-nuernberg.de/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%P%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "de, en, *" https://wellness-massagen-nuernberg.de/ -O1 "C:\Users\rolfw\OneDrive\Dokumente\Meine Webseiten\Wellness" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Jun 2021 19:36:35 at https://the-couple-game.lpages.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "de, en, *" https://the-couple-game.lpages.co/ -O1 "C:\Users\rolfw\OneDrive\Dokumente\Meine Webseiten\Wellness2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-18:02:10	Error: 	"Forbidden" (403) at link translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from https://wellness-massagen-nuernberg.de/)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/Trident/ (from https://wellness-massagen-nuernberg.de/)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/about/Trident/ (from https://wellness-massagen-nuernberg.de/about/)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/leistung/Trident/ (from https://wellness-massagen-nuernberg.de/leistung/)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/contact/Trident/ (from https://wellness-massagen-nuernberg.de/contact/)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/impressum/Trident/ (from https://wellness-massagen-nuernberg.de/impressum/)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/datenschutz/Trident/ (from https://wellness-massagen-nuernberg.de/datenschutz/)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/chrome-extension:// (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/^([^:/? (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
-18:02:15	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/restserver.php (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
-18:02:16	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
-18:02:16	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/GET/ (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
-18:02:17	Error: 	"Not Found" (404) at link https://wellness-massagen-nuernberg.de/dialog/ (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
+19:36:48	Error: 	"Forbidden" (403) at link translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from https://the-couple-game.lpages.co/)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/Trident/ (from https://the-couple-game.lpages.co/)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/about/Trident/ (from https://the-couple-game.lpages.co/about/)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/leistung/Trident/ (from https://the-couple-game.lpages.co/leistung/)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/contact/Trident/ (from https://the-couple-game.lpages.co/contact/)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/impressum/Trident/ (from https://the-couple-game.lpages.co/impressum/)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/datenschutz/Trident/ (from https://the-couple-game.lpages.co/datenschutz/)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/chrome-extension:// (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/^([^:/? (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
+19:36:53	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/restserver.php (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
+19:36:54	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
+19:36:54	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/GET/ (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
+19:36:54	Error: 	"Not Found" (404) at link https://the-couple-game.lpages.co/dialog/ (from https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js)
 
-HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 31 links scanned, 17 files written (3996673 bytes overall) [3360323 bytes received at 152741 bytes/sec], 3346860 bytes transferred using HTTP compression in 24 files, ratio 23%, 2.0 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 31 links scanned, 17 files written (3996253 bytes overall) [3359449 bytes received at 176813 bytes/sec], 3345720 bytes transferred using HTTP compression in 24 files, ratio 23%, 2.0 requests per connection
 (13 errors, 0 warnings, 0 messages)

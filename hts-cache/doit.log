@@ -1,5 +1,5 @@
--qwC2%P%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "de, en, *" https://wellness-massagen-nuernberg.de/ -O1 "C:\Users\rolfw\OneDrive\Dokumente\Meine Webseiten\Wellness" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-File generated automatically on Fri, 25 Jun 2021 18:01:55, do NOT edit
+-qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "de, en, *" https://the-couple-game.lpages.co/ -O1 "C:\Users\rolfw\OneDrive\Dokumente\Meine Webseiten\Wellness2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Fri, 25 Jun 2021 19:36:35, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
