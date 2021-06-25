@@ -1,1 +1,0 @@
-# wellness-rolf.github.io
