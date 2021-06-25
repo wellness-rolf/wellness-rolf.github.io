@@ -1,5 +1,5 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-19:36:36	184510/184510	---MCZ	200	added ('OK')	text/html	etag:W/%22dd13e62a884188f776c934f560d28670%22	https://the-couple-game.lpages.co/	C:/Users/rolfw/OneDrive/Dokumente/Meine%20Webseiten/Wellness2/index-2.html	(from )
+19:36:36	184510/184510	---MCZ	200	added ('OK')	text/html	etag:W/%22dd13e62a884188f776c934f560d28670%22	https://the-couple-game.lpages.co/	C:/Users/rolfw/OneDrive/Dokumente/Meine%20Webseiten/Wellness2/index.html	(from )
 19:36:36	20/20	---MCZ	200	added ('OK')	text/plain	date:Fri,%2025%20Jun%202021%2017:36:35%20GMT	https://the-couple-game.lpages.co/robots.txt		(from )
 19:36:37	58935/58935	---M-Z	200	added ('OK')	text/css	etag:%225qdWIg%22	https://static.leadpages.net/fonts/font-awesome/5.14.0/css/all.min.css	C:/Users/rolfw/OneDrive/Dokumente/Meine%20Webseiten/Wellness2/fonts/font-awesome/5.14.0/css/all.min.css	(from https://the-couple-game.lpages.co/)
 19:36:38	12555/12555	---M-Z	200	added ('OK')	application/javascript	etag:%22OMWYXg%22	https://js.center.io/center.js	C:/Users/rolfw/OneDrive/Dokumente/Meine%20Webseiten/Wellness2/center.js	(from https://the-couple-game.lpages.co/)
